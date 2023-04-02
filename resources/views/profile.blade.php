@@ -124,7 +124,7 @@
         <div class="bg-stone-400 p-20 h-[820px] w-full flex-col text-stone-800 font-sans"id="EDUCATION BACKGROUND">
             <div class="font-bold text-center text-2xl">LET'S GET IN TOUCH!</div>
                 <div class="ml-[50px] z-10 bg-stone-800 my-20 w-[700px] h-[400px] rounded-3xl">
-                    <div class="flex items-center"><img class="w-40 h-40 ml-[60px]" src="kurumi.png">
+                    <div class="flex items-center"><img class="w-20 h-40 ml-[100px]" src="anya.png">
                         <div class="text-white text-left p-[30px] font-sans font-light text-l">
                             <br><div class="mt-7"><div class="flex items-center"><img class="w-10 h-10 mr-3 ml-[40px]" src="instagram.png">Instagram Account: @winiitaprynt</div></div>
                             <br><div class="flex items-center"><img class="w-10 h-10 mr-3 ml-[40px]" src="email.png">Email Address: winita.priyanto@binus.ac.id</div>
