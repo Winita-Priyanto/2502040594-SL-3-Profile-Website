@@ -7,4 +7,4 @@
 ![Documentation Wini](https://github.com/Winita-Priyanto/2502040594-SL-3-Profile-Website/blob/main/public/Website%20Documentation/3.png)
 ![Documentation Wini](https://github.com/Winita-Priyanto/2502040594-SL-3-Profile-Website/blob/main/public/Website%20Documentation/EXPERIENCES.png)
 ![Documentation Wini](https://github.com/Winita-Priyanto/2502040594-SL-3-Profile-Website/blob/main/public/Website%20Documentation/4.png)
-![Documentation Wini](https://github.com/Winita-Priyanto/2502040594-SL-3-Profile-Website/blob/main/public/Website%20Documentation/CONTACTS.png)
+![Documentation Wini](https://github.com/Winita-Priyanto/2502040594-SL-3-Profile-Website/blob/main/public/Website%20Documentation/CONTACT.png)
